@@ -1,0 +1,37 @@
+
+.ant-list-item-meta-description{
+text-overflow: ellipsis;
+word-wrap: break-word;
+overflow: hidden;
+max-height: 3.6em;
+line-height: 1.8em;
+font-size: 12px !important;
+text-align: left
+}
+
+.ant-list-item-meta-content{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.ant-list-item-meta-title>a{
+    font-size: 20px;
+}
+
+.ant-spin-container{
+    display: flex;
+    flex-direction: column;
+   
+    align-content: center;
+    align-items: center;
+    align-self: center;
+}
+
+.ant-list-item{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin: 5px;
+    align-items: flex-start !important
+}

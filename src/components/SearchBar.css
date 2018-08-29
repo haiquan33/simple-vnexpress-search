@@ -1,0 +1,11 @@
+.SearchContainer{
+    height: 100px;
+    background: #FAFAFA;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+}
+.ant-input-search.ant-input-search-enter-button.ant-input-search-large.ant-input-affix-wrapper.ant-input-affix-wrapper-lg{
+    width: 50%;
+}
